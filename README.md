@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**ThiagoSilvaAraujo/ThiagoSilvaAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Atualmente estou trabalhando com Projetos em Engenharia de Segurança e Desenvolvedor
 
@@ -18,4 +13,3 @@ Atualmente estou trabalhando com Projetos em Engenharia de Segurança e Desenvol
 [![](https://visitcount.itsvg.in/api?id=ThiagoSilvaAraujo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
