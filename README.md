@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estou trabalhando com Projetos em Engenharia de Segurança e Desenvolvedor
+Interesse em modelos de previsão.
 
 
 # 💻 Tech Stack:
